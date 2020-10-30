@@ -2,5 +2,5 @@
 
 int main(int argc, char *argv[])
 {
-	printf("Coucou ma cherie !\n");
+	printf("Bah alors c'est quoi cette Poupette qui traine pour  recuperer mes modifications ?\n");
 }
